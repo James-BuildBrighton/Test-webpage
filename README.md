@@ -1,2 +1,2 @@
-# Test-webpage
-test test
+# Build Brighton Hackspace
+A community of makers
